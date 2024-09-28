@@ -23,10 +23,10 @@ _Towards Predictive Analytics Algorithms for Attack Prediction in IoT Platforms_
 ---
 
 **Supervision and Contribution:**
-
+- **Prof. N. Rafalia**, Faculty of Science, Kenitra (Advisor)
 - **Abderrahmane Aqachtoul** (abderrahmanaqachtoul@gmail.com)
 - **Prof. M. Bakhouya**, International University of Rabat (Internship Advisor)
-- **Prof. N. Rafalia**, Faculty of Science, Kenitra (Advisor)
+
 
 ---
 
